@@ -1,0 +1,9 @@
+Q:\LP2\Calculo_volume_Cilindro\Calculo_volume_Cilindro\bin\Debug\Calculo_volume_Cilindro.exe.config
+Q:\LP2\Calculo_volume_Cilindro\Calculo_volume_Cilindro\bin\Debug\Calculo_volume_Cilindro.exe
+Q:\LP2\Calculo_volume_Cilindro\Calculo_volume_Cilindro\bin\Debug\Calculo_volume_Cilindro.pdb
+Q:\LP2\Calculo_volume_Cilindro\Calculo_volume_Cilindro\obj\Debug\Calculo_volume_Cilindro.volume.resources
+Q:\LP2\Calculo_volume_Cilindro\Calculo_volume_Cilindro\obj\Debug\Calculo_volume_Cilindro.Properties.Resources.resources
+Q:\LP2\Calculo_volume_Cilindro\Calculo_volume_Cilindro\obj\Debug\Calculo_volume_Cilindro.csproj.GenerateResource.Cache
+Q:\LP2\Calculo_volume_Cilindro\Calculo_volume_Cilindro\obj\Debug\Calculo_volume_Cilindro.exe
+Q:\LP2\Calculo_volume_Cilindro\Calculo_volume_Cilindro\obj\Debug\Calculo_volume_Cilindro.pdb
+Q:\LP2\Calculo_volume_Cilindro\Calculo_volume_Cilindro\obj\Debug\Calculo_volume_Cilindro.csprojResolveAssemblyReference.cache
