@@ -1,0 +1,9 @@
+C:\Users\ferna\source\repos\calculoPesoIdeal\calculoPesoIdeal\bin\Debug\calculoPesoIdeal.exe.config
+C:\Users\ferna\source\repos\calculoPesoIdeal\calculoPesoIdeal\bin\Debug\calculoPesoIdeal.exe
+C:\Users\ferna\source\repos\calculoPesoIdeal\calculoPesoIdeal\bin\Debug\calculoPesoIdeal.pdb
+C:\Users\ferna\source\repos\calculoPesoIdeal\calculoPesoIdeal\obj\Debug\calculoPesoIdeal.csprojAssemblyReference.cache
+C:\Users\ferna\source\repos\calculoPesoIdeal\calculoPesoIdeal\obj\Debug\calculoPesoIdeal.Form1.resources
+C:\Users\ferna\source\repos\calculoPesoIdeal\calculoPesoIdeal\obj\Debug\calculoPesoIdeal.Properties.Resources.resources
+C:\Users\ferna\source\repos\calculoPesoIdeal\calculoPesoIdeal\obj\Debug\calculoPesoIdeal.csproj.GenerateResource.cache
+C:\Users\ferna\source\repos\calculoPesoIdeal\calculoPesoIdeal\obj\Debug\calculoPesoIdeal.exe
+C:\Users\ferna\source\repos\calculoPesoIdeal\calculoPesoIdeal\obj\Debug\calculoPesoIdeal.pdb
