@@ -1,0 +1,9 @@
+C:\Users\ferna\source\repos\triangulos\triangulos\bin\Debug\triangulos.exe.config
+C:\Users\ferna\source\repos\triangulos\triangulos\bin\Debug\triangulos.exe
+C:\Users\ferna\source\repos\triangulos\triangulos\bin\Debug\triangulos.pdb
+C:\Users\ferna\source\repos\triangulos\triangulos\obj\Debug\triangulos.csprojAssemblyReference.cache
+C:\Users\ferna\source\repos\triangulos\triangulos\obj\Debug\triangulos.Form1.resources
+C:\Users\ferna\source\repos\triangulos\triangulos\obj\Debug\triangulos.Properties.Resources.resources
+C:\Users\ferna\source\repos\triangulos\triangulos\obj\Debug\triangulos.csproj.GenerateResource.cache
+C:\Users\ferna\source\repos\triangulos\triangulos\obj\Debug\triangulos.exe
+C:\Users\ferna\source\repos\triangulos\triangulos\obj\Debug\triangulos.pdb
