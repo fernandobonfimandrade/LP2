@@ -1,0 +1,9 @@
+C:\Users\ferna\source\repos\inss_irpf\inss_irpf\bin\Debug\inss_irpf.exe.config
+C:\Users\ferna\source\repos\inss_irpf\inss_irpf\bin\Debug\inss_irpf.exe
+C:\Users\ferna\source\repos\inss_irpf\inss_irpf\bin\Debug\inss_irpf.pdb
+C:\Users\ferna\source\repos\inss_irpf\inss_irpf\obj\Debug\inss_irpf.csprojAssemblyReference.cache
+C:\Users\ferna\source\repos\inss_irpf\inss_irpf\obj\Debug\inss_irpf.Form1.resources
+C:\Users\ferna\source\repos\inss_irpf\inss_irpf\obj\Debug\inss_irpf.Properties.Resources.resources
+C:\Users\ferna\source\repos\inss_irpf\inss_irpf\obj\Debug\inss_irpf.csproj.GenerateResource.cache
+C:\Users\ferna\source\repos\inss_irpf\inss_irpf\obj\Debug\inss_irpf.exe
+C:\Users\ferna\source\repos\inss_irpf\inss_irpf\obj\Debug\inss_irpf.pdb
