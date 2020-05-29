@@ -1,0 +1,13 @@
+C:\Users\ferna\source\repos\lancador_exercicios\lancador_exercicios\bin\Debug\lancador_exercicios.exe.config
+C:\Users\ferna\source\repos\lancador_exercicios\lancador_exercicios\bin\Debug\lancador_exercicios.exe
+C:\Users\ferna\source\repos\lancador_exercicios\lancador_exercicios\bin\Debug\lancador_exercicios.pdb
+C:\Users\ferna\source\repos\lancador_exercicios\lancador_exercicios\obj\Debug\lancador_exercicios.csprojAssemblyReference.cache
+C:\Users\ferna\source\repos\lancador_exercicios\lancador_exercicios\obj\Debug\lancador_exercicios.Form1.resources
+C:\Users\ferna\source\repos\lancador_exercicios\lancador_exercicios\obj\Debug\lancador_exercicios.Properties.Resources.resources
+C:\Users\ferna\source\repos\lancador_exercicios\lancador_exercicios\obj\Debug\lancador_exercicios.csproj.GenerateResource.cache
+C:\Users\ferna\source\repos\lancador_exercicios\lancador_exercicios\obj\Debug\lancador_exercicios.exe
+C:\Users\ferna\source\repos\lancador_exercicios\lancador_exercicios\obj\Debug\lancador_exercicios.pdb
+C:\Users\ferna\source\repos\lancador_exercicios\lancador_exercicios\obj\Debug\lancador_exercicios.Form3.resources
+C:\Users\ferna\source\repos\lancador_exercicios\lancador_exercicios\obj\Debug\lancador_exercicios.Form4.resources
+C:\Users\ferna\source\repos\lancador_exercicios\lancador_exercicios\obj\Debug\lancador_exercicios.formExe2.resources
+C:\Users\ferna\source\repos\lancador_exercicios\lancador_exercicios\obj\Debug\lancador_exercicios.Form5.resources
