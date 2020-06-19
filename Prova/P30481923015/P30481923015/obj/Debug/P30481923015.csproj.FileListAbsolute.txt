@@ -1,0 +1,9 @@
+C:\Users\ferna\source\repos\P30481923015\P30481923015\obj\Debug\P30481923015.csprojAssemblyReference.cache
+C:\Users\ferna\source\repos\P30481923015\P30481923015\obj\Debug\P30481923015.Form1.resources
+C:\Users\ferna\source\repos\P30481923015\P30481923015\obj\Debug\P30481923015.Properties.Resources.resources
+C:\Users\ferna\source\repos\P30481923015\P30481923015\obj\Debug\P30481923015.csproj.GenerateResource.cache
+C:\Users\ferna\source\repos\P30481923015\P30481923015\bin\Debug\P30481923015.exe.config
+C:\Users\ferna\source\repos\P30481923015\P30481923015\bin\Debug\P30481923015.exe
+C:\Users\ferna\source\repos\P30481923015\P30481923015\bin\Debug\P30481923015.pdb
+C:\Users\ferna\source\repos\P30481923015\P30481923015\obj\Debug\P30481923015.exe
+C:\Users\ferna\source\repos\P30481923015\P30481923015\obj\Debug\P30481923015.pdb
