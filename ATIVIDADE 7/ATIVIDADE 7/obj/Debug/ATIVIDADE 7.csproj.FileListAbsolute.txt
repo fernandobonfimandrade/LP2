@@ -1,0 +1,10 @@
+C:\Users\ferna\source\repos\ATIVIDADE 7\ATIVIDADE 7\bin\Debug\ATIVIDADE 7.exe.config
+C:\Users\ferna\source\repos\ATIVIDADE 7\ATIVIDADE 7\bin\Debug\ATIVIDADE 7.exe
+C:\Users\ferna\source\repos\ATIVIDADE 7\ATIVIDADE 7\bin\Debug\ATIVIDADE 7.pdb
+C:\Users\ferna\source\repos\ATIVIDADE 7\ATIVIDADE 7\obj\Debug\ATIVIDADE 7.csprojAssemblyReference.cache
+C:\Users\ferna\source\repos\ATIVIDADE 7\ATIVIDADE 7\obj\Debug\ATIVIDADE_7.Form1.resources
+C:\Users\ferna\source\repos\ATIVIDADE 7\ATIVIDADE 7\obj\Debug\ATIVIDADE_7.Properties.Resources.resources
+C:\Users\ferna\source\repos\ATIVIDADE 7\ATIVIDADE 7\obj\Debug\ATIVIDADE 7.csproj.GenerateResource.cache
+C:\Users\ferna\source\repos\ATIVIDADE 7\ATIVIDADE 7\obj\Debug\ATIVIDADE 7.exe
+C:\Users\ferna\source\repos\ATIVIDADE 7\ATIVIDADE 7\obj\Debug\ATIVIDADE 7.pdb
+C:\Users\ferna\source\repos\ATIVIDADE 7\ATIVIDADE 7\obj\Debug\ATIVIDADE_7.Form2.resources
