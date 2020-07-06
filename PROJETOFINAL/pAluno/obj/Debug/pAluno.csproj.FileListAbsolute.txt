@@ -1,0 +1,11 @@
+C:\Users\ferna\source\repos\pAluno\pAluno\obj\Debug\pAluno.csprojAssemblyReference.cache
+C:\Users\ferna\source\repos\pAluno\pAluno\obj\Debug\pAluno.frmPrincipal.resources
+C:\Users\ferna\source\repos\pAluno\pAluno\obj\Debug\pAluno.Properties.Resources.resources
+C:\Users\ferna\source\repos\pAluno\pAluno\obj\Debug\pAluno.csproj.GenerateResource.cache
+C:\Users\ferna\source\repos\pAluno\pAluno\bin\Debug\pAluno.exe.config
+C:\Users\ferna\source\repos\pAluno\pAluno\bin\Debug\pAluno.exe
+C:\Users\ferna\source\repos\pAluno\pAluno\bin\Debug\pAluno.pdb
+C:\Users\ferna\source\repos\pAluno\pAluno\obj\Debug\pAluno.exe
+C:\Users\ferna\source\repos\pAluno\pAluno\obj\Debug\pAluno.pdb
+C:\Users\ferna\source\repos\pAluno\pAluno\obj\Debug\pAluno.frmCidade.resources
+C:\Users\ferna\source\repos\pAluno\pAluno\obj\Debug\pAluno.frmAluno.resources
